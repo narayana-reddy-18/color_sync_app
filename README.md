@@ -1,16 +1,49 @@
-# color_sync_app
+# 🎨 Color Sync App
 
-A new Flutter project.
+A cross-platform Flutter application to generate, store, and sync color codes. It works offline using `shared_preferences` and syncs to Firebase Cloud Firestore when online.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔀 Generate random color codes
+- 🎨 Display color codes on cards with HEX values
+- 📦 Store data locally using `shared_preferences`
+- ☁️ Auto-sync with Firebase Firestore when online
+- 📡 Connectivity-aware sync handling
+- ⚠️ Robust error and persistent state management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- Flutter (Dart)
+- Firebase Cloud Firestore
+- `shared_preferences`
+- `connectivity_plus`
+
+---
+
+## ▶️ Demo Video
+
+📽️ [Click here to watch the demo](https://drive.google.com/file/d/14rl3VoYvAM9WH5Zfob1EdfD4M6kTwN3H/view?usp=drive_link)
+
+---
+
+## 🖼️ Screenshots
+
+### 🟢 Generate Color Codes
+![Generate Color](screenshots/screenshots_generate_color.png)
+
+### ☁️ Firebase Sync in Action
+![Firebase Sync](screenshots/screenshots_firebase_sync.png)
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/YOUR_USERNAME/color_sync_app.git
+cd color_sync_app
+flutter pub get
+flutter run
