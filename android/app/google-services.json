@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119569910286",
+    "project_id": "color-scyn-app",
+    "storage_bucket": "color-scyn-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119569910286:android:7d1c0a9f527a31429f8a5f",
+        "android_client_info": {
+          "package_name": "com.example.color_sync_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw3e_99wpl6L9-imH1kDSdh9O3QS5Ucto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
