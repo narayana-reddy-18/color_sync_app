@@ -38,7 +38,8 @@ A cross-platform Flutter application to generate, store, and sync color codes. I
 ### ☁️ Firebase Sync in Action
 ![Firebase Sync]## Firebase Sync Screenshot
 
-![Firebase Sync](assets/screenshots/firebase_sync.jpg)
+![Firebase Sync](assets/screenshots/screenshots_firebase_sync.jpg)
+
 
 
 ---
