@@ -33,10 +33,13 @@ A cross-platform Flutter application to generate, store, and sync color codes. I
 ## 🖼️ Screenshots
 
 ### 🟢 Generate Color Codes
-![Generate Color](screenshots/screenshots_generate_color.png)
+![Generate Color](assets/screenshots/screenshots_generate_color.jpg)
 
 ### ☁️ Firebase Sync in Action
-![Firebase Sync](screenshots/screenshots_firebase_sync.png)
+![Firebase Sync]## Firebase Sync Screenshot
+
+![Firebase Sync](assets/screenshots/firebase_sync.jpg)
+
 
 ---
 
